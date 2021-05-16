@@ -2,13 +2,17 @@
 headless: true
 ---
 
-- [**Example Site**]({{< relref "/docs/example" >}})
-- [Table of Contents]({{< relref "/docs/example/table-of-contents" >}})
-  - [With ToC]({{< relref "/docs/example/table-of-contents/with-toc" >}})
-  - [Without ToC]({{< relref "/docs/example/table-of-contents/without-toc" >}})
-- [Collapsed]({{< relref "/docs/example/collapsed" >}})
-  - [3rd]({{< relref "/docs/example/collapsed/3rd-level" >}})
-    - [4th]({{< relref "/docs/example/collapsed/3rd-level/4th-level" >}})
+- [Comum a Todos]({{< relref "/sessoes/ComumATodos" >}})
+- [Backend]({{< relref "/sessoes/Back" >}})
+- [Frontend]({{< relref "/sessoes/Front" >}})
+- [Desenvolvimento Móvel]({{< relref "/sessoes/Mobile" >}})
+- [Banco de Dados]({{< relref "/sessoes/BD" >}})
+- [Embed / Hardware]({{< relref "/sessoes/Embed_HW" >}})
+- [Operações]({{< relref "/sessoes/OPS" >}})
+- [Segurança da Informação]({{< relref "/sessoes/SEC" >}})
+- [Fontes de Refêrencia]({{< relref "/sessoes/FontesDeReferencia" >}})
+- [Para Praticar]({{< relref "/sessoes/ParaPraticar" >}})
+
 <br />
 
 - **Shortcodes**

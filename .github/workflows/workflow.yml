@@ -18,3 +18,5 @@ jobs:
         uses: chabad360/hugo-gh-pages@master
         with:
           githubToken: ${{ secrets.PERSONAL_TOKEN }}
+          cname: iniciante.monique.dev
+          args: --gc --minify --cleanDestinationDir

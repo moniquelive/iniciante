@@ -9,13 +9,12 @@ type: sessoes
 
 ### Sites de desafios
 
-- Kattis
-
-- Exercism
-
-- Project Euler
-
-- Hacker Rank
-
-- URI Judge
-
+- [URI Judge](https://www.urionlinejudge.com.br/judge/pt/login)
+- (ing) [Kattis](https://open.kattis.com/)
+- (ing) [Exercism](https://exercism.io)
+- (ing) [Project Euler](https://projecteuler.net)
+- (ing) [Hacker Rank](https://www.hackerrank.com) - possui lingua portuguesa
+- (ing) [Leet Code](https://leetcode.com/)
+- (ing) [Code Signal](https://codesignal.com/developers/)
+- (ing) [Code Wars](https://www.codewars.com/)
+- (ing) [Coding Game](https://www.codingame.com/)

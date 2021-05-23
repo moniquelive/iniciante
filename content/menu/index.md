@@ -2,6 +2,9 @@
 headless: true
 ---
 
+---
+- **Áreas de interesse**
+---
 - [Comum a Todos]({{< relref "/sessoes/ComumATodos" >}})
 - [Backend]({{< relref "/sessoes/Back" >}})
 - [Frontend]({{< relref "/sessoes/Front" >}})
@@ -10,12 +13,17 @@ headless: true
 - [Embed / Hardware]({{< relref "/sessoes/Embed_HW" >}})
 - [Operações]({{< relref "/sessoes/OPS" >}})
 - [Segurança da Informação]({{< relref "/sessoes/SEC" >}})
-- [Fontes de Refêrencia]({{< relref "/sessoes/FontesDeReferencia" >}})
+---
+- [Fontes de Referência]({{< relref "/sessoes/FontesDeReferencia" >}})
 - [Para Praticar]({{< relref "/sessoes/ParaPraticar" >}})
+---
 
 <br />
 
+<!--
+---
 - **Shortcodes**
+---
 - [Buttons]({{< relref "/docs/shortcodes/buttons" >}})
 - [Columns]({{< relref "/docs/shortcodes/columns" >}})
 - [Expand]({{< relref "/docs/shortcodes/expand" >}})
@@ -24,3 +32,4 @@ headless: true
 - [Mermaid]({{< relref "/docs/shortcodes/mermaid" >}})
 - [Tabs]({{< relref "/docs/shortcodes/tabs" >}})
 <br />
+-->

@@ -3,20 +3,57 @@ title: Introduction
 type: sessoes
 ---
 
-## Fontes de Referencia
+# Fontes de Referencia
 
-### Stack Overflow
+- [Blogs Brasileiros](https://github.com/Wmitrut/awesome-brazilian-devblogs)
+- [Khan Academy](https://pt.khanacademy.org/)
+- [Wikipedia](https://pt.wikipedia.org/)
+- (ing) [Stack Overflow](https://stackoverflow.com)
+- (ing) [RFC](https://www.ietf.org/standards/rfcs/)
 
-### Google
+## Streamers da Twitch
+- [Isabella Herman](https://www.twitch.tv/isabellaherman)
+- [JP Amis](https://www.twitch.tv/jp_amis)
+- [Live Divulgador](https://livedivulgador.herokuapp.com/)
+- [RacerXDL](https://www.twitch.tv/racerxdl)
 
-### Wikipedia
+### Live Coder Girls
+- [Bug Eleseif](https://www.twitch.tv/bug_elseif)
+- [Jakeliny](https://www.twitch.tv/jakeliny)
+- [Julia Labs](https://www.twitch.tv/julialabs)
+- [Leitora Incomum](https://www.twitch.tv/leitoraincomum)
+- [Leona Dev](https://www.twitch.tv/leonadev)
+- [Lysonjeada](https://www.twitch.tv/lysonjeada)
+- [Mmillecm](https://www.twitch.tv/mmillecm)
+- [Morganna Dev](https://www.twitch.tv/morgannadev)
+- [Pachi Codes](https://www.twitch.tv/pachicodes)
+- [Punk Do Devops](https://www.twitch.tv/punkdodevops)
+- [Snittey](https://www.twitch.tv/snittey)
+- [Xtecna](https://www.twitch.tv/xtecna)
 
-### Youtube
+## Canais de Youtube
 
-- Khan
+### Backend
+- [Ellen Korbes - Aprenda GO](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ)
+- [Henrique Bastos](https://www.youtube.com/user/henriquebastosnet)
 
--
+### Carreira
+- [Fabio Akita](https://www.youtube.com/user/AkitaOnRails)
+- [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
+- [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
 
-### RFC
+### Devops
+- [LinuxTips](https://www.youtube.com/user/linuxtipscanal)
 
-- PT?
+### Frontend
+- [BrazilJS](https://www.youtube.com/user/BrazilJS)
+- [Dev Soutinho](https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbitA)
+- [Felipe Dechamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+- [Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw)
+- [Marco Bruno Dev](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)
+
+### Generalistas
+- [Guanabara - Cursos em Video](https://www.youtube.com/user/cursosemvideo)
+
+### Mobile
+- [Fluterando](https://www.youtube.com/user/jacobaraujo7)

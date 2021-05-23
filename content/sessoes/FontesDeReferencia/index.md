@@ -6,6 +6,7 @@ type: sessoes
 # Fontes de Referencia
 
 - [Blogs Brasileiros](https://github.com/Wmitrut/awesome-brazilian-devblogs)
+- [Cursos Gratuitos na Udemy em português](https://gist.github.com/moniquelive/b718daa96a454ba4469f413062de1173)
 - [Khan Academy](https://pt.khanacademy.org/)
 - [Wikipedia](https://pt.wikipedia.org/)
 - (ing) [Stack Overflow](https://stackoverflow.com)

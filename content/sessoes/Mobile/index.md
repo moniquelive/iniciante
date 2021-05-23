@@ -20,9 +20,7 @@ type: sessoes
 - Cupertino UI
 
 - XCode
-
   - ObjC
-
   - Swift
 
 ### Hibrido

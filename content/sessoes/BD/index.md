@@ -10,15 +10,10 @@ type: sessoes
 ### Ferramentas
 
 - MySQL / MariaDB
-
 - Postgres
-
 - Oracle
-
 - SQL Server
-
 - MongoDB
-
 - Cassandra / Dynamo
 
 ### Reports / BI

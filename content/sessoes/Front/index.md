@@ -12,17 +12,12 @@ type: sessoes
 - TypeScript
 
 - Javascript
-
   - ES6
-
   - Frameworks
 
 - HTML / CSS
-
   - SCSS
-
   - SASS
-
   - PostCSS
 
 ### Ferramentas
@@ -30,13 +25,9 @@ type: sessoes
 - Teste
 
 - Debug
-
   - Dev Tools
 
 - Frameworks
-
   - WP
-
   - Joomla
-
   - Jamstacks

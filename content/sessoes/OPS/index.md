@@ -8,13 +8,11 @@ type: sessoes
 ### Setup
 
 - Terraform
-
 - Ansible
 
 ### Manutencao
 
 - Updates
-
 - Backups / Restore
 
 ### Deploys
@@ -26,7 +24,5 @@ type: sessoes
 ### Nuvem
 
 - AWS
-
 - Google
-
 - Azure

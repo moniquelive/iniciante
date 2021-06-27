@@ -58,3 +58,24 @@ type: sessoes
 
 ### Mobile
 - [Fluterando](https://www.youtube.com/user/jacobaraujo7)
+
+## Cursos gratuitos
+- [Lista de Cursos Organizados pela Ark Join](https://github.com/arkjoin/cursos)
+- [Comece de graça](https://balta.io/)
+- https://recode.org.br/cursos/
+- https://www.cursoemvideo.com/cursos/
+- https://www.uaitec.mg.gov.br/inicio/cursos
+- https://www.primecursos.com.br/programacao/
+- [Angular, Cordova, Java](https://loiane.training/)
+- https://larien.gitbook.io/aprenda-go-com-testes/
+- https://lelepg.github.io/Site_de_cursos/
+- https://github.com/he4rt/4noobs
+
+## Cursos Pagos
+- https://cubos.academy/cursos
+
+## Livros
+- [Descr. em pt-br mas conteudo em ingles](https://github.com/Clemensss/TeachYourselfCS-PT/blob/master/TeachYourselfCS-PT.md)
+
+## Faculdades
+- [Harvard](https://cs50.harvard.edu/college/2021/fall/)

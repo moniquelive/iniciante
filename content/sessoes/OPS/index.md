@@ -5,6 +5,8 @@ type: sessoes
 
 ## OPS
 
+- https://github.com/hideraldus13/roadmap-do-desenvolvedor-web
+
 ### Setup
 
 - Terraform

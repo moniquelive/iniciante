@@ -7,6 +7,8 @@ type: sessoes
 
 ### Ideias de projetos
 
+- https://digitalinnovation.one/
+
 ### Sites de desafios
 
 - [URI Judge](https://www.urionlinejudge.com.br/judge/pt/login)

@@ -7,6 +7,8 @@ type: sessoes
 
 ### Noções basicas
 
+- https://github.com/hideraldus13/roadmap-do-desenvolvedor-web
+
 - Adm Linux
 - Adm Windows
 
@@ -25,6 +27,10 @@ type: sessoes
 
 - Message Broker
 - Microserviços
+
+## Redes
+
+- [Programação para redes](http://beej.us/guide/bgnet/translations/bgnet_ptbr.pdf)
 
 ### APIs
 

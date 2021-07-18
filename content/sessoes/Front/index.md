@@ -6,6 +6,7 @@ type: sessoes
 ## Front
 
 - https://github.com/hideraldus13/roadmap-do-desenvolvedor-web
+- https://jlcarvalho.github.io/guia-frontend/
 
 ### Linguagens
 

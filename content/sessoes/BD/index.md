@@ -5,7 +5,7 @@ type: sessoes
 
 ## BD
 
-### Álgebra Cartesiana(?) (conjuntos)
+### Álgebra Relacional
 
 ### Ferramentas
 

@@ -55,9 +55,14 @@ type: sessoes
 
 ### Generalistas
 - [Guanabara - Cursos em Video](https://www.youtube.com/user/cursosemvideo)
+- [DACC - IF Sudeste MG](https://www.youtube.com/c/DACCIFSudesteMG/videos)
+- [Universo Discreto](https://www.youtube.com/c/UniversoDiscreto/playlists)
+- [UNIVESP - EngComp](https://www.youtube.com/user/univesptv/playlists?view=50&shelf_id=3)
+
 
 ### Mobile
 - [Fluterando](https://www.youtube.com/user/jacobaraujo7)
+- [Angular, Cordova, Java](https://loiane.training/)
 
 ## Cursos gratuitos
 - [Lista de Cursos Organizados pela Ark Join](https://github.com/arkjoin/cursos)
@@ -66,7 +71,6 @@ type: sessoes
 - https://www.cursoemvideo.com/cursos/
 - https://www.uaitec.mg.gov.br/inicio/cursos
 - https://www.primecursos.com.br/programacao/
-- [Angular, Cordova, Java](https://loiane.training/)
 - https://larien.gitbook.io/aprenda-go-com-testes/
 - https://lelepg.github.io/Site_de_cursos/
 - https://github.com/he4rt/4noobs

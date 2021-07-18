@@ -4,6 +4,7 @@ type: sessoes
 ---
 
 ## Comum a todos
+- [Universo Discreto](https://universodiscreto.com/)
 
 ### Linguagens
 

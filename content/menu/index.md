@@ -6,6 +6,7 @@ headless: true
 - **Áreas de interesse**
 ---
 - [Comum a Todos]({{< relref "/sessoes/ComumATodos" >}})
+- [Linguagens]({{< relref "/sessoes/Linguagens" >}})
 - [Backend]({{< relref "/sessoes/Back" >}})
 - [Frontend]({{< relref "/sessoes/Front" >}})
 - [Desenvolvimento Móvel]({{< relref "/sessoes/Mobile" >}})

@@ -42,6 +42,7 @@ type: sessoes
 - [Fabio Akita](https://www.youtube.com/user/AkitaOnRails)
 - [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
 - [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
+- [Código Falado](https://www.youtube.com/channel/UCtwkSRuugeCF1Bh8kxE55qQ)
 
 ### Devops
 - [LinuxTips](https://www.youtube.com/user/linuxtipscanal)

@@ -8,5 +8,6 @@ type: sessoes
 ### Pentest
 
 ### Disasm / Eng Reversa
+- https://mentebinaria.gitbook.io/engenharia-reversa/
 
 ### Cracking

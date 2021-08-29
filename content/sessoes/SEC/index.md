@@ -11,3 +11,6 @@ type: sessoes
 - https://mentebinaria.gitbook.io/engenharia-reversa/
 
 ### Cracking
+
+### Cursos
+- (ing) [Open Security Training](https://opensecuritytraining.info/Training.html)

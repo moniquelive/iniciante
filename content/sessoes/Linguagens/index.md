@@ -20,3 +20,7 @@ Alguns links direto do chat oficial da galera de #golang
 - (Skippy) (cursos gratuitos) [Gophercises coding exercises for budding gophers](https://gophercises.com/)
 - (Skippy) (cursos pagos) [TutorialEdge Golang Courses](https://tutorialedge.net/course/golang/)
 - (Strum355) [Gopher Reading List](https://github.com/enocom/gopher-reading-list)
+
+### Ruby
+
+- [Wesley Sena - Instagram](https://www.instagram.com/wesleysena.dev/)

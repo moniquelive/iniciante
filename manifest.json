@@ -1,6 +1,6 @@
 {
-  "name": "Dicas para iniciantes de tecnologia da informação",
-  "short_name": "Dicas para iniciantes de tecnologia da informação",
+  "name": "Dicas para iniciantes em TI",
+  "short_name": "Dicas para iniciantes em TI",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

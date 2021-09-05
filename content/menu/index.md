@@ -3,9 +3,9 @@ headless: true
 ---
 
 ---
-- **Áreas de interesse**
+- **Áreas**
 ---
-- [Comum a Todos]({{< relref "/sessoes/ComumATodos" >}})
+- [Comum a Todas]({{< relref "/sessoes/ComumATodos" >}})
 - [Linguagens]({{< relref "/sessoes/Linguagens" >}})
 - [Backend]({{< relref "/sessoes/Back" >}})
 - [Frontend]({{< relref "/sessoes/Front" >}})
@@ -14,6 +14,8 @@ headless: true
 - [Embed / Hardware]({{< relref "/sessoes/Embed_HW" >}})
 - [Operações]({{< relref "/sessoes/OPS" >}})
 - [Segurança da Informação]({{< relref "/sessoes/SEC" >}})
+---
+- **Links**
 ---
 - [Fontes de Referência]({{< relref "/sessoes/FontesDeReferencia" >}})
 - [Para Praticar]({{< relref "/sessoes/ParaPraticar" >}})

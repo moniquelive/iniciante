@@ -12,6 +12,7 @@ type: sessoes
 ### Sites de desafios
 
 - [URI Judge](https://www.urionlinejudge.com.br/judge/pt/login)
+- (ing) [Problemas de Back/Front/Pen](https://github.com/michelbernardods/programming-challenges)
 - (ing) [Kattis](https://open.kattis.com/)
 - (ing) [Exercism](https://exercism.io)
 - (ing) [Project Euler](https://projecteuler.net)

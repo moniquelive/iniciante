@@ -5,7 +5,7 @@ headless: true
 ---
 - **Áreas**
 ---
-- [Comum a Todas]({{< relref "/sessoes/ComumATodos" >}})
+- [Comum a Todos]({{< relref "/sessoes/ComumATodos" >}})
 - [Linguagens]({{< relref "/sessoes/Linguagens" >}})
 - [Backend]({{< relref "/sessoes/Back" >}})
 - [Frontend]({{< relref "/sessoes/Front" >}})

@@ -12,6 +12,7 @@ type: sessoes
 - [Wikipedia](https://pt.wikipedia.org/)
 - (ing) [Stack Overflow](https://stackoverflow.com)
 - (ing) [RFC](https://www.ietf.org/standards/rfcs/)
+- (port/ing) [GUIA dev do arthurspk](https://github.com/arthurspk/guiadevbrasil)
 
 ## Streamers da Twitch
 - [Isabella Herman](https://www.twitch.tv/isabellaherman)

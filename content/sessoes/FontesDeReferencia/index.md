@@ -7,6 +7,7 @@ type: sessoes
 
 - [Livros em Português](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-pt_BR.md)
 - [Blogs Brasileiros](https://github.com/Wmitrut/awesome-brazilian-devblogs)
+- [Cursos Mistos em Português e Inglês](https://github.com/alinebastos/free-courses)
 - [Cursos Gratuitos na Udemy em português](https://gist.github.com/moniquelive/b718daa96a454ba4469f413062de1173)
 - [Khan Academy](https://pt.khanacademy.org/)
 - [Wikipedia](https://pt.wikipedia.org/)

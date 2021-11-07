@@ -9,6 +9,7 @@ type: sessoes
 ### C++
 
 - [Curso de C++ - Tarcisio Eduardo Moreira Crocomo](https://www.youtube.com/playlist?list=PLd_tyl_0h07Pp9QIfbqHx5TIvCnnZuwCi)
+- [Slides do curso de C++ - Leandro T. C. Melo](https://ltcmelo.com/cursocpp.html)
 
 ### Go
 

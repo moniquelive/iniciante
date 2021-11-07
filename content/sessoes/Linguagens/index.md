@@ -6,6 +6,10 @@ type: sessoes
 ## Linguagens
 
 
+### C++
+
+- [Curso de C++ - Tarcisio Eduardo Moreira Crocomo](https://www.youtube.com/playlist?list=PLd_tyl_0h07Pp9QIfbqHx5TIvCnnZuwCi)
+
 ### Go
 
 Alguns links direto do chat oficial da galera de #golang

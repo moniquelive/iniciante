@@ -21,7 +21,7 @@ type: sessoes
 - [Live Divulgador](https://livedivulgador.herokuapp.com/)
 - [RacerXDL](https://www.twitch.tv/racerxdl)
 
-### Live Coder Girls
+### Feministech
 - [Bug Eleseif](https://www.twitch.tv/bug_elseif)
 - [Jakeliny](https://www.twitch.tv/jakeliny)
 - [Julia Labs](https://www.twitch.tv/julialabs)

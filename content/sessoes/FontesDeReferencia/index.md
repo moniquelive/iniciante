@@ -69,6 +69,7 @@ type: sessoes
 - [Angular, Cordova, Java](https://loiane.training/)
 
 ## Cursos gratuitos
+- [Noções Básicas de UNIX - MIT](https://missing-semester-pt.github.io/)
 - [Lista de Cursos Organizados pela Ark Join](https://github.com/arkjoin/cursos)
 - [Comece de graça](https://balta.io/)
 - https://recode.org.br/cursos/

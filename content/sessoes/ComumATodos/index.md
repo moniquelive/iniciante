@@ -4,11 +4,14 @@ type: sessoes
 ---
 
 ## Comum a todos
+
 - [Universo Discreto](https://universodiscreto.com/)
+- [Universidade OpenSource](https://github.com/ossu/computer-science)
 
 ### Linguagens
 
 #### Ruby
+
 - [Aprenda a programar](https://www.jmonteiro.com/aprendaaprogramar/)
 - [Ruby em 20 minutos](https://www.ruby-lang.org/pt/documentation/quickstart/)
 - [Livro do Taq](https://eustaquiorangel.com/livro-ruby)
@@ -21,17 +24,19 @@ type: sessoes
 ### Basico
 
 - Lógica de Programação
+
   - Estrutura de Dados
   - Análise de Algoritmos
 
 - Engenharia de Sofware
+
   - Controle de Versão
-    - GIT
-      - https://learngitbranching.js.org/?locale=pt_BR
+    - [GIT](https://learngitbranching.js.org/?locale=pt_BR)
     - SVN
   - Padrões de Projeto (Design Patterns)
 
 - Sistemas Operacionais
+
   - Arquitetura de SO
   - Pratica
     - Linux
@@ -40,6 +45,7 @@ type: sessoes
       - WSL
 
 - Paradigmas de Programacao
+
   - Funcional
   - Imperativo
   - OO
@@ -51,6 +57,7 @@ type: sessoes
 - Compiladores
 
 - Testes
+
   - Para cada area
   - TDD
   - BDD
@@ -59,4 +66,3 @@ type: sessoes
 - Criptologia
   - Simetrica
   - Assimétrica (Chaves)
-
